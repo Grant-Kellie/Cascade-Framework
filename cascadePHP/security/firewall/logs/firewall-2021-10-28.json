@@ -1,0 +1,14 @@
+[
+    {
+        "id": 0,
+        "ip_address": "127.0.0.1",
+        "time_stamp": "2021-10-28 22:46:58",
+        "http_user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/95.0.4638.54 Safari\/537.36",
+        "inbound_request": {
+            "http_method": "get",
+            "url": null
+        },
+        "title": "Session \/ Cookie ID mismatch",
+        "description": "The session id provided by the client does not match with any server side ids's"
+    }
+]

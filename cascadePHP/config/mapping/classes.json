@@ -1,0 +1,389 @@
+[
+    {
+        "directory": "app",
+        "file": "Main.php",
+        "file_path": "app\/Example\/Main.php",
+        "file_size_bits": 15960,
+        "namespace_class": "App\\Example\\Main",
+        "namespace": "App\\Example",
+        "class": "Main"
+    },
+    {
+        "directory": "app",
+        "file": "index.php",
+        "file_path": "app\/Example\/assets\/templates\/index.php",
+        "file_size_bits": 664,
+        "namespace_class": "App\\Example\\Assets\\Templates\\Index",
+        "namespace": "App\\Example\\Assets\\Templates",
+        "class": "Index"
+    },
+    {
+        "directory": "app",
+        "file": "search.php",
+        "file_path": "app\/Example\/assets\/templates\/search.php",
+        "file_size_bits": 19416,
+        "namespace_class": "App\\Example\\Assets\\Templates\\Search",
+        "namespace": "App\\Example\\Assets\\Templates",
+        "class": "Search"
+    },
+    {
+        "directory": "app",
+        "file": "Authorization.php",
+        "file_path": "app\/Admin\/Middleware\/Authorization.php",
+        "file_size_bits": 1784,
+        "namespace_class": "App\\Admin\\Middleware\\Authorization",
+        "namespace": "App\\Admin\\Middleware",
+        "class": "Authorization"
+    },
+    {
+        "directory": "app",
+        "file": "ControlPanel.php",
+        "file_path": "app\/Admin\/ControlPanel.php",
+        "file_size_bits": 6664,
+        "namespace_class": "App\\Admin\\ControlPanel",
+        "namespace": "App\\Admin",
+        "class": "ControlPanel"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "MimeType.php",
+        "file_path": "cascadePHP\/fileServices\/mime\/MimeType.php",
+        "file_size_bits": 8696,
+        "namespace_class": "CascadePHP\\FileServices\\Mime\\MimeType",
+        "namespace": "CascadePHP\\FileServices\\Mime",
+        "class": "MimeType"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "Expression.php",
+        "file_path": "cascadePHP\/fileServices\/regEx\/Expression.php",
+        "file_size_bits": 11488,
+        "namespace_class": "CascadePHP\\FileServices\\RegEx\\Expression",
+        "namespace": "CascadePHP\\FileServices\\RegEx",
+        "class": "Expression"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "Html.php",
+        "file_path": "cascadePHP\/view\/Html.php",
+        "file_size_bits": 8904,
+        "namespace_class": "CascadePHP\\View\\Html",
+        "namespace": "CascadePHP\\View",
+        "class": "Html"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "Body.php",
+        "file_path": "cascadePHP\/view\/Body.php",
+        "file_size_bits": 9488,
+        "namespace_class": "CascadePHP\\View\\Body",
+        "namespace": "CascadePHP\\View",
+        "class": "Body"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "Head.php",
+        "file_path": "cascadePHP\/view\/Head.php",
+        "file_size_bits": 27184,
+        "namespace_class": "CascadePHP\\View\\Head",
+        "namespace": "CascadePHP\\View",
+        "class": "Head"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "Autoload_Cascade.php",
+        "file_path": "cascadePHP\/autoload\/Autoload_Cascade.php",
+        "file_size_bits": 54792,
+        "namespace_class": "CascadePHP\\Autoload\\Autoload_Cascade",
+        "namespace": "CascadePHP\\Autoload",
+        "class": "Autoload_Cascade"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "Cookie.php",
+        "file_path": "cascadePHP\/session\/Cookie.php",
+        "file_size_bits": 9328,
+        "namespace_class": "CascadePHP\\Session\\Cookie",
+        "namespace": "CascadePHP\\Session",
+        "class": "Cookie"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "Session.php",
+        "file_path": "cascadePHP\/session\/Session.php",
+        "file_size_bits": 79880,
+        "namespace_class": "CascadePHP\\Session\\Session",
+        "namespace": "CascadePHP\\Session",
+        "class": "Session"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "Kernel.php",
+        "file_path": "cascadePHP\/Kernel.php",
+        "file_size_bits": 11992,
+        "namespace_class": "CascadePHP\\Kernel",
+        "namespace": "CascadePHP",
+        "class": "Kernel"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "ActivityMonitor.php",
+        "file_path": "cascadePHP\/security\/firewall\/ActivityMonitor.php",
+        "file_size_bits": 16960,
+        "namespace_class": "CascadePHP\\Security\\Firewall\\ActivityMonitor",
+        "namespace": "CascadePHP\\Security\\Firewall",
+        "class": "ActivityMonitor"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "XssDefender.php",
+        "file_path": "cascadePHP\/security\/XssDefender.php",
+        "file_size_bits": 8664,
+        "namespace_class": "CascadePHP\\Security\\XssDefender",
+        "namespace": "CascadePHP\\Security",
+        "class": "XssDefender"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "Firewall.php",
+        "file_path": "cascadePHP\/security\/Firewall.php",
+        "file_size_bits": 7632,
+        "namespace_class": "CascadePHP\\Security\\Firewall",
+        "namespace": "CascadePHP\\Security",
+        "class": "Firewall"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "CSRF.php",
+        "file_path": "cascadePHP\/security\/CSRF.php",
+        "file_size_bits": 16488,
+        "namespace_class": "CascadePHP\\Security\\CSRF",
+        "namespace": "CascadePHP\\Security",
+        "class": "CSRF"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "QueryBuilder.php",
+        "file_path": "cascadePHP\/database\/QueryBuilder.php",
+        "file_size_bits": 2872,
+        "namespace_class": "CascadePHP\\Database\\QueryBuilder",
+        "namespace": "CascadePHP\\Database",
+        "class": "QueryBuilder"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "DBLoader.php",
+        "file_path": "cascadePHP\/database\/DBLoader.php",
+        "file_size_bits": 12408,
+        "namespace_class": "CascadePHP\\Database\\DBLoader",
+        "namespace": "CascadePHP\\Database",
+        "class": "DBLoader"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "www.php",
+        "file_path": "cascadePHP\/config\/routes\/www.php",
+        "file_size_bits": 9216,
+        "namespace_class": "CascadePHP\\Config\\Routes\\Www",
+        "namespace": "CascadePHP\\Config\\Routes",
+        "class": "Www"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "admin.php",
+        "file_path": "cascadePHP\/config\/routes\/admin.php",
+        "file_size_bits": 16800,
+        "namespace_class": "CascadePHP\\Config\\Routes\\Admin",
+        "namespace": "CascadePHP\\Config\\Routes",
+        "class": "Admin"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "private.php",
+        "file_path": "cascadePHP\/config\/security\/private.php",
+        "file_size_bits": 1600,
+        "namespace_class": "CascadePHP\\Config\\Security\\Private",
+        "namespace": "CascadePHP\\Config\\Security",
+        "class": "Private"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "EnvConfig.php",
+        "file_path": "cascadePHP\/config\/settings\/globals\/EnvConfig.php",
+        "file_size_bits": 12432,
+        "namespace_class": "CascadePHP\\Config\\Settings\\Globals\\EnvConfig",
+        "namespace": "CascadePHP\\Config\\Settings\\Globals",
+        "class": "EnvConfig"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "Database.php",
+        "file_path": "cascadePHP\/config\/settings\/Database.php",
+        "file_size_bits": 9160,
+        "namespace_class": "CascadePHP\\Config\\Settings\\Database",
+        "namespace": "CascadePHP\\Config\\Settings",
+        "class": "Database"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "Security.php",
+        "file_path": "cascadePHP\/config\/settings\/Security.php",
+        "file_size_bits": 8304,
+        "namespace_class": "CascadePHP\\Config\\Settings\\Security",
+        "namespace": "CascadePHP\\Config\\Settings",
+        "class": "Security"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "Packages.php",
+        "file_path": "cascadePHP\/config\/settings\/Packages.php",
+        "file_size_bits": 5312,
+        "namespace_class": "CascadePHP\\Config\\Settings\\Packages",
+        "namespace": "CascadePHP\\Config\\Settings",
+        "class": "Packages"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "Environment.php",
+        "file_path": "cascadePHP\/config\/settings\/Environment.php",
+        "file_size_bits": 20680,
+        "namespace_class": "CascadePHP\\Config\\Settings\\Environment",
+        "namespace": "CascadePHP\\Config\\Settings",
+        "class": "Environment"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "ConvertDataType.php",
+        "file_path": "cascadePHP\/utilities\/ConvertDataType.php",
+        "file_size_bits": 5720,
+        "namespace_class": "CascadePHP\\Utilities\\ConvertDataType",
+        "namespace": "CascadePHP\\Utilities",
+        "class": "ConvertDataType"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "DateTime.php",
+        "file_path": "cascadePHP\/utilities\/DateTime.php",
+        "file_size_bits": 4688,
+        "namespace_class": "CascadePHP\\Utilities\\DateTime",
+        "namespace": "CascadePHP\\Utilities",
+        "class": "DateTime"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "HttpResponse.php",
+        "file_path": "cascadePHP\/httpServices\/HttpResponse.php",
+        "file_size_bits": 9136,
+        "namespace_class": "CascadePHP\\HttpServices\\HttpResponse",
+        "namespace": "CascadePHP\\HttpServices",
+        "class": "HttpResponse"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "HttpHeaders.php",
+        "file_path": "cascadePHP\/httpServices\/HttpHeaders.php",
+        "file_size_bits": 30712,
+        "namespace_class": "CascadePHP\\HttpServices\\HttpHeaders",
+        "namespace": "CascadePHP\\HttpServices",
+        "class": "HttpHeaders"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "HttpRequest.php",
+        "file_path": "cascadePHP\/httpServices\/HttpRequest.php",
+        "file_size_bits": 54144,
+        "namespace_class": "CascadePHP\\HttpServices\\HttpRequest",
+        "namespace": "CascadePHP\\HttpServices",
+        "class": "HttpRequest"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "HttpMethods.php",
+        "file_path": "cascadePHP\/httpServices\/HttpMethods.php",
+        "file_size_bits": 44856,
+        "namespace_class": "CascadePHP\\HttpServices\\HttpMethods",
+        "namespace": "CascadePHP\\HttpServices",
+        "class": "HttpMethods"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "error.php",
+        "file_path": "cascadePHP\/exceptions\/fallback\/render\/error.php",
+        "file_size_bits": 3520,
+        "namespace_class": "CascadePHP\\Exceptions\\Fallback\\Render\\Error",
+        "namespace": "CascadePHP\\Exceptions\\Fallback\\Render",
+        "class": "Error"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "ErrorResponse.php",
+        "file_path": "cascadePHP\/exceptions\/ErrorResponse.php",
+        "file_size_bits": 42200,
+        "namespace_class": "CascadePHP\\Exceptions\\ErrorResponse",
+        "namespace": "CascadePHP\\Exceptions",
+        "class": "ErrorResponse"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "Handler.php",
+        "file_path": "cascadePHP\/exceptions\/Handler.php",
+        "file_size_bits": 9488,
+        "namespace_class": "CascadePHP\\Exceptions\\Handler",
+        "namespace": "CascadePHP\\Exceptions",
+        "class": "Handler"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "Cascade.php",
+        "file_path": "cascadePHP\/Cascade.php",
+        "file_size_bits": 16296,
+        "namespace_class": "CascadePHP\\Cascade",
+        "namespace": "CascadePHP",
+        "class": "Cascade"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "Middleware.php",
+        "file_path": "cascadePHP\/routing\/Middleware.php",
+        "file_size_bits": 8800,
+        "namespace_class": "CascadePHP\\Routing\\Middleware",
+        "namespace": "CascadePHP\\Routing",
+        "class": "Middleware"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "FilterRequest.php",
+        "file_path": "cascadePHP\/routing\/filter\/FilterRequest.php",
+        "file_size_bits": 68088,
+        "namespace_class": "CascadePHP\\Routing\\Filter\\FilterRequest",
+        "namespace": "CascadePHP\\Routing\\Filter",
+        "class": "FilterRequest"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "ValidateRequest.php",
+        "file_path": "cascadePHP\/routing\/validation\/ValidateRequest.php",
+        "file_size_bits": 30816,
+        "namespace_class": "CascadePHP\\Routing\\Validation\\ValidateRequest",
+        "namespace": "CascadePHP\\Routing\\Validation",
+        "class": "ValidateRequest"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "Endpoint.php",
+        "file_path": "cascadePHP\/routing\/Endpoint.php",
+        "file_size_bits": 46400,
+        "namespace_class": "CascadePHP\\Routing\\Endpoint",
+        "namespace": "CascadePHP\\Routing",
+        "class": "Endpoint"
+    },
+    {
+        "directory": "cascadePHP",
+        "file": "Router.php",
+        "file_path": "cascadePHP\/routing\/Router.php",
+        "file_size_bits": 82208,
+        "namespace_class": "CascadePHP\\Routing\\Router",
+        "namespace": "CascadePHP\\Routing",
+        "class": "Router"
+    }
+]
